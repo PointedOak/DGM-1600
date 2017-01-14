@@ -6,6 +6,4 @@ ss
 klsdvklsgdksdgkjasdg
 mksdgmklsgdksld;ga
 njsadsadsagdlgasd
-jkldfjsadgjklasdgljagsdjsdlsdg
-jkfsadgdaasgd
-jksjklgjkldafkjl
+jkldfjsa
