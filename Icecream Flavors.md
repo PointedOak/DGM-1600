@@ -4,6 +4,6 @@ Icecream Poll
 
 What is your favorite Icecream?
 
-Vanilla: 6 votes
-Rasberry Swirl:10 votes
+Vanilla: 6 votes<br/>
+Rasberry Swirl:10 votes<br/>
 neopalitan:1 Vote
