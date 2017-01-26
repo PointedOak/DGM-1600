@@ -6,4 +6,5 @@ What is your favorite Icecream?
 
 Vanilla: 6 votes<br/>
 Rasberry Swirl:10 votes<br/>
-neopalitan:1 Vote
+Neopalitan:1 vote<br/>
+Chocolate: 14 votes
