@@ -8,3 +8,4 @@ Vanilla: 6 votes<br/>
 Rasberry Swirl:10 votes<br/>
 Neopalitan:1 vote<br/>
 Chocolate: 14 votes<br/>
+Strawberry Cheesecake: 8 votes<br/>
